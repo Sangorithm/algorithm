@@ -1,0 +1,13 @@
+#pragma once
+#include <cmath>
+#include <iostream>
+#include <GL/glew.h>
+#include <GL/freeglut.h>
+#include <GL/freeglut_ext.h>
+#include <conio.h>
+#include "moglclass.h"
+#include "shaders.h"
+#include "vertexBufferObject.h"
+#include <list>
+#include <map>
+#include <vector>
